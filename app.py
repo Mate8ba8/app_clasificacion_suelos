@@ -23,6 +23,8 @@ from backend.cartaplasticidad import cartaPlasticidad
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
+server = app.server
+
 # Importar Diseño
 
 app.layout = layout
