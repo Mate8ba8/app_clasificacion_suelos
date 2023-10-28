@@ -4,3 +4,4 @@ matplotlib
 plotly
 numpy
 gunicorn
+dash_bootstrap_components
