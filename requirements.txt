@@ -5,5 +5,3 @@ plotly
 numpy
 gunicorn
 dash_bootstrap_components
-io
-base64
