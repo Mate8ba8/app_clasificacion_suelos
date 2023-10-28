@@ -3,5 +3,4 @@ pandas
 matplotlib
 plotly
 numpy
-base64
 gunicorn
