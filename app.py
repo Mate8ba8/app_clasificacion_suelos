@@ -1,4 +1,4 @@
-from dash import Dash, dcc, html, Input, Output, callback, State
+from dash import Dash, html, Input, Output
 import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.graph_objs as go
@@ -7,7 +7,7 @@ from backend.estilos import*
 from backend.imagenes import*
 from backend.Tablas import*
 from backend.cartaplasticidad import cartaPlasticidad 
-import dash_core_components as dcc
+
 
 
 
