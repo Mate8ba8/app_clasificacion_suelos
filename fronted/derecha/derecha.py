@@ -1,14 +1,13 @@
 
-from dash import Dash, dash_table, dcc, html, Input, Output, callback
-import pandas as pd
-import plotly.graph_objs as go
-import math
+from dash import dcc, html
 from backend.granulometria import*
 from backend.estilos import*
 from backend.imagenes import*
 from backend.Tablas import*
 from backend.cartaplasticidad import*
 import dash_bootstrap_components as dbc
+
+
 
 
 
