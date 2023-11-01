@@ -1,5 +1,3 @@
-import dash_table
-
 # tabla para limite liquido e Indice de plasticidad 
 
 propiedades = [
